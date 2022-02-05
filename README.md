@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marthl" alt="marthl" /></a> </p>
-
 - 🔭 I’m currently working on [90Tech company](https://www.90tech.fr)
 
 - 🌱 I’m currently learning **React and Microsoft Azure**
