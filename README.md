@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [90Tech company](https://www.90tech.fr)
 
-- 🌱 I’m currently learning **React and Microsoft Azure**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m also working as freelance [MarthWeb](http://www.marthweb.ovh)
 
