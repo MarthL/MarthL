@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [http://www.marthweb.ovh](http://www.marthweb.ovh)
 
-- 💬 Ask me about **Symfony, PHP**
+- 💬 Ask me about **Symfony, PHP, JS**
 
 - 📫 How to reach me **marth.webapp@gmail.com**
 
