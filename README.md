@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Symfony, PHP, JS**
 
-- 📫 How to reach me **marth.webapp@gmail.com**
+- 📫 You can contact me at **marth.webapp@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
