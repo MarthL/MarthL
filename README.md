@@ -3,7 +3,7 @@
 <div id="card" align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>
+  <img src="https://img.shields.io/badge/Codepen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>
 </div>
 
 <h3 align="center">A passionate developer from France</h3>
