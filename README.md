@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 
 <div id="card" align="center">
-  <img src="https://img.shields.io/badge/message=LinkedIn&color=blue"></>
+  <img src="https://img.shields.io/badge?message=LinkedIn&color=blue"></>
 </div>
 
 <h3 align="center">A passionate developer from France</h3>
