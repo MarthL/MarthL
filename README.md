@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
+
+<div id="card" align="center">
+  <img src="https://img.shields.io/static/v1?label=linkedIn&message=LinkedIn&color=blue">
+</div>
+
 <h3 align="center">A passionate developer from France</h3>
 
 - 🔭 I’m currently working on [90Tech company](https://www.90tech.fr)
