@@ -39,7 +39,7 @@ Hotkey list:
 | Express | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" color="white" alt="express" width="40" height="40"/> |
 | CodeIgniter | <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> |
 | PHP | <img src="https://www.php.net/images/logos/php-logo-white.svg" width="40" height="40"> |
-| Tab | ⇥ |
+| Javascript | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  width="40" height="40"/> |
 | Esc | ⎋ |
 | Power | ⌽ |
 | Return | ↩ |
