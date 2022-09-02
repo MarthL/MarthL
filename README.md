@@ -30,9 +30,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-Hotkey list:
 
-| Key | Symbol |
+| Languages | Logo |
 | --- | --- |
 | Angular |  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="60" height="40"/> |
 | Symfony |  <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="60"/> | 
