@@ -34,20 +34,20 @@ Hotkey list:
 
 | Key | Symbol |
 | --- | --- |
-| Angular |  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> |
-| Symfony |  <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> | 
-| Express | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" color="white" alt="express" width="40" height="40"/> |
-| CodeIgniter | <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> |
-| PHP | <img src="https://www.php.net/images/logos/php-logo-white.svg" width="40" height="40"> |
-| Javascript | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  width="40" height="40"/> |
+| Angular |  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="60" height="40"/> |
+| Symfony |  <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="60"/> | 
+| Express | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" color="white" alt="express" width="60" height="40"/> |
+| CodeIgniter | <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="60" height="40"/> |
+| PHP | <img src="https://www.php.net/images/logos/php-logo-white.svg" width="60" height="40"> |
+| Javascript | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  width="60" height="40"/> |
 | SQL | <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/langfr-220px-MySQL.svg.png" width="60" height="40" />  |
-| Gulp | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> |
-| HTML | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  |
-| CSS | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> |
-| React | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> |
-| Adobe XD |  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> |
+| Gulp | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="60" height="40"/> |
+| HTML | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="40"/>  |
+| CSS | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="40"/> |
+| React | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="40"/> |
+| Adobe XD |  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="60" height="40"/> |
 | Docker | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="40"/>  |
-| Figma |  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>  |
+| Figma |  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="40"/>  |
 | Node JS | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> |
 
 
