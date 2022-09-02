@@ -40,7 +40,7 @@ Hotkey list:
 | CodeIgniter | <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> |
 | PHP | <img src="https://www.php.net/images/logos/php-logo-white.svg" width="40" height="40"> |
 | Javascript | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  width="40" height="40"/> |
-| SQL | <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/langfr-220px-MySQL.svg" width="40" height"40" />  |
+| SQL | <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/langfr-220px-MySQL.svg" width="40" height="40" />  |
 | Power | ⌽ |
 | Return | ↩ |
 | Delete | ⌫ |
