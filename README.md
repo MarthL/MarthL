@@ -16,11 +16,11 @@
 
 <h3 align="center">A passionate developer from France <span> <img src="Flag_of_France.svg.png"> </span> </h3>
 
-- 🔭 I’m currently working on [90Tech company](https://www.90tech.fr)
+- 🔭 I’m currently working on [CGI](https://www.cgi.com/france/fr-fr)
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m also working as freelance [MarthWeb](http://www.marthweb.ovh)
+- 👯 I’m also working as freelance [MarthWeb] (http://www.marthweb.ovh)
 
 - 👨‍💻 All of my projects are available at [http://www.marthweb.ovh](http://www.marthweb.ovh)
 
