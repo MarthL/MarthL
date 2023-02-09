@@ -32,7 +32,7 @@
 
 |Specialization|TECHNO|
 |--|--|
-|**BACK END** 🔙🔚|
+|**BACK END**|
 ||🧩 NodeJS
 ||📘 Express
 ||🗝 CodeIgniter
