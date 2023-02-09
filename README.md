@@ -26,6 +26,8 @@
 
 - 📫 You can contact me at **marth.webapp@gmail.com**
 
+<hr>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <div align="center">
@@ -60,6 +62,8 @@
 ||🐳 Docker
 
 </div>
+
+<hr>
 
 
   [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MarthL&langs_count=5&theme=tokyonight)]()
