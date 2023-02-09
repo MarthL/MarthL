@@ -62,9 +62,5 @@
 </div>
 
 
-<div align="left">
   [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MarthL&langs_count=5&theme=tokyonight)]()
-</div>
-<div align="right">
   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MarthL&count_private=true&theme=tokyonight&showicons=true)]()
-</div>
