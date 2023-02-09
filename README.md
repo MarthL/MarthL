@@ -39,13 +39,14 @@
 ||🗼 PHP 
 ||💼 MySQL
 ||🍃 Mongo
+||🏰 Symfony  
 |**FRONT END**|---|
 ||🎨 HTML/CSS
 ||🎇 JAVASCRIPT
 ||🎀 Bootstrap
 ||🩱  SASS - SCSS 
 ||🎏 ReactJS
-||🏰 Angular 
+||🅰️ Angular 
 |**VERSIONING**|---|
 ||🐱‍👤 Git / GitHub / Gitlab
 |**ARCHITECTURE**|---|
