@@ -28,6 +28,38 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+<div align="center">
+
+|Specialization|TECHNO|
+|--|--|
+|**BACK END** 🔙🔚|
+||🧩 NodeJS
+||📘 Express
+||🗝 CodeIgniter
+||🗼 PHP 
+||💼 MySQL
+||🍃 Mongo
+|**FRONT END**|---|
+||🎨 HTML/CSS
+||🎇 JAVASCRIPT
+||🎀 Bootstrap
+||🩱  SASS - SCSS 
+||🎏 ReactJS
+||🏰 Angular 
+|**VERSIONING**|---|
+||🐱‍👤 Git / GitHub / Gitlab
+|**ARCHITECTURE**|---|
+||🎞 Models Views Controllers (MVC)
+||♾ API RESTful
+|**PROGRAMMING**|---|
+||🕹OOP (Object Oriented Programming)
+|**CMS**|---|
+||🎫 WordPress
+|**DEVOPS**|---|
+||🐳 Docker
+
+</div>
+
 
 | Languages | Logo |
 | --- | --- |
