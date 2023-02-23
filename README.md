@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Martin</h1>
+<h1 align="center">Hi 👋, I'm Marthy</h1>
 
 <div align="center"> <img src="./spongebob-computer.gif"> </div>
 
