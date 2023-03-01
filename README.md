@@ -65,6 +65,8 @@
 
 <hr>
 
-<h3 align="left">My stats:</h3>
-  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MarthL&count_private=true&theme=tokyonight&showicons=true)]()
+<h3 align="left">My stats:</h3>   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarthL&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MarthL&count_private=true&theme=tokyonight&showicons=true)]
   
