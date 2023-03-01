@@ -38,7 +38,8 @@
 ||🧩 NodeJS
 ||📘 Express
 ||🗝 CodeIgniter
-||🗼 PHP 
+||🗼 PHP
+||🚅 NestJS
 ||💼 MySQL
 ||🍃 Mongo
 ||🏰 Symfony  
