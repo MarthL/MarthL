@@ -47,9 +47,10 @@
 ||🎨 HTML/CSS
 ||🎇 JAVASCRIPT
 ||🎀 Bootstrap
-||🩱  SASS - SCSS 
+||✨  SASS - SCSS 
 ||🎏 ReactJS
-||🅰️ Angular 
+||🅰️ Angular
+||⚛️ ReactJS
 |**VERSIONING**|---|
 ||🐱‍👤 Git / GitHub / Gitlab
 |**ARCHITECTURE**|---|
