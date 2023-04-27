@@ -48,7 +48,7 @@
 ||🎇 JAVASCRIPT
 ||🎀 Bootstrap
 ||✨  SASS - SCSS 
-||🎏 ReactJS
+||🎏 VueJS
 ||🅰️ Angular
 ||⚛️ ReactJS
 |**VERSIONING**|---|
