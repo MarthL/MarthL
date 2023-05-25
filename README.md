@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on [Akkodis](https://www.modisfrance.fr/) in Germany
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at [http://www.marthweb.ovh](http://www.marthweb.ovh)
 
