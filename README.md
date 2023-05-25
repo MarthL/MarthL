@@ -43,10 +43,12 @@
 ||💼 MySQL
 ||🍃 Mongo
 ||🏰 Symfony  
+||🔒 Formik
 |**FRONT END**|---|
 ||🎨 HTML/CSS
 ||🎇 JAVASCRIPT
 ||🎀 Bootstrap
+||📦 MUI
 ||✨  SASS - SCSS 
 ||🎏 VueJS
 ||🅰️ Angular
