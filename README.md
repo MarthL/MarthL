@@ -58,6 +58,7 @@
 |**ARCHITECTURE**|---|
 ||🎞 Models Views Controllers (MVC)
 ||♾ API RESTful
+||⚛️ Atomic Design
 |**PROGRAMMING**|---|
 ||🕹OOP (Object Oriented Programming)
 |**CMS**|---|
