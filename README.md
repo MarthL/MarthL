@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 👨‍💻 All of my projects are available at [http://www.marthweb.ovh](http://www.marthweb.ovh)
+- 👨‍💻 All of my projects are available here, a new portfolio is in progress
 
 - 💬 Ask me about **Symfony, PHP, JS**
 
