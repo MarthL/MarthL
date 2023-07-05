@@ -44,6 +44,7 @@
 ||🍃 Mongo
 ||🏰 Symfony  
 ||🔒 Formik
+||☕ Java Spring
 |**FRONT END**|---|
 ||🎨 HTML/CSS
 ||🎇 JAVASCRIPT
