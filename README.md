@@ -73,5 +73,5 @@
 
 <h3 align="left">My stats:</h3>   
 
- ![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MarthL&count_private=false&show_icons=true&theme=transparent)
+ ![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MarthL&count_private=true&show_icons=true&theme=transparent)
   
