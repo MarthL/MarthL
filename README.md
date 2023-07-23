@@ -18,11 +18,11 @@
 
 - 🔭 I’m currently working on [Akkodis](https://www.modisfrance.fr/) in Germany
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **JAVA**
 
 - 👨‍💻 All of my projects are available here, a new portfolio is in progress
 
-- 💬 Ask me about **Symfony, PHP, JS**
+- 💬 Ask me about **React**
 
 - 📫 You can contact me at **marth.webapp@gmail.com**
 
