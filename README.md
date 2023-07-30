@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **JAVA**
 
-- 👨‍💻 All of my projects are available here, a new portfolio is in progress
+- 👨‍💻 All of my projects are available [here](https://martinaubertin.tech)
 
 - 💬 Ask me about **React**
 
