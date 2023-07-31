@@ -14,7 +14,7 @@
   </a>
 </div>
 
-<h3 align="center">A passionate developer from France <span> <img src="Flag_of_France.svg.png"> </span> </h3>
+<h3 align="center">A passionate developer from France <span> <img src="Flag_of_France.svg.png"> </span> but now in Germany </h3>
 
 - 🔭 I’m currently working on [Akkodis](https://www.modisfrance.fr/) in Germany
 
