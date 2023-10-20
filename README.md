@@ -52,7 +52,7 @@
 ||📦 MUI
 ||✨  SASS - SCSS 
 ||🎏 VueJS
-||🅰️ Angular
+||🅰️ AngularJS / Angular2
 ||⚛️ ReactJS
 |**VERSIONING**|---|
 ||🐱‍👤 Git / GitHub / Gitlab
@@ -62,6 +62,9 @@
 ||⚛️ Atomic Design
 |**PROGRAMMING**|---|
 ||🕹OOP (Object Oriented Programming)
+|**TESTING**|---|
+||🧪 PHPUnit
+|| 👺 Jest
 |**CMS**|---|
 ||🎫 WordPress
 |**DEVOPS**|---|
