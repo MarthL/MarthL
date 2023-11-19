@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on [Akkodis](https://www.modisfrance.fr/) in Germany
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available [here](https://martinaubertin.tech)
 
