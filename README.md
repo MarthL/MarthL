@@ -14,7 +14,7 @@
   </a>
 </div>
 
-<h3 align="center">A passionate developer from France <span> <img src="Flag_of_France.svg.png"> </span> but now in Germany </h3>
+<h3 align="center">A passionate developer from France <span> <img src="Flag_of_France.svg.png"> </span> </h3>
 
 🌍 Passionate Fullstack Developer | 3 Years of International Experience 🚀
 <br><br>
