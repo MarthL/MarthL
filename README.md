@@ -16,15 +16,20 @@
 
 <h3 align="center">A passionate developer from France <span> <img src="Flag_of_France.svg.png"> </span> but now in Germany </h3>
 
-- 🔭 I’m currently working on [Akkodis](https://www.modisfrance.fr/) in Germany
-
-- 🌱 I’m currently learning **React Native**
-
-- 👨‍💻 All of my projects are available [here](https://martinaubertin.tech)
-
-- 💬 Ask me about **React**
-
-- 📫 You can contact me at **marth.webapp@gmail.com**
+🌍 Passionate Fullstack Developer | 3 Years of International Experience 🚀
+<br><br>
+Greetings from a tech enthusiast with 3 years of hands-on experience in the dynamic world of software development! 🚀 Currently based in Germany, I've had the privilege of crafting innovative solutions on both French and international grounds.
+<br><br>
+🖥️ Tech Arsenal: JavaScript & React Lover 💙
+My heart beats in JavaScript, and it sings in React! My expertise lies in leveraging these technologies to create seamless user experiences. Whether it's building robust CMS systems, developing custom web applications from scratch, or implementing automation solutions, I thrive on turning complex ideas into elegant, functional code.
+<br><br>
+🛠️ Crafting Solutions Beyond Boundaries 🌐
+Having worked with a prominent international consulting firm, I've honed my skills in delivering diverse solutions. From the meticulous creation and maintenance of CMS and extensions to architecting web applications that stand out, I enjoy the challenge of adapting to various tech landscapes.
+<br><br>
+🌏 Wanderlust Developer ✈️
+Life is a journey, and so is my career! With a passion for exploration, I've embraced a lifestyle that involves constant movement. My diverse experiences have not only enriched my professional skill set but have also broadened my perspective, allowing me to approach problem-solving with a global mindset.
+<br><br>
+Let's connect and explore the infinite possibilities at the intersection of code and creativity! 🚀
 
 <hr>
 
