@@ -55,10 +55,11 @@ Let's connect and explore the infinite possibilities at the intersection of code
 ||🎇 JAVASCRIPT
 ||🎀 Bootstrap
 ||📦 MUI
+||💪 GSAP
 ||✨  SASS - SCSS 
 ||🎏 VueJS
 ||🅰️ AngularJS / Angular2
-||⚛️ ReactJS
+||⚛️ ReactJS & Next
 |**VERSIONING**|---|
 ||🐱‍👤 Git / GitHub / Gitlab
 |**ARCHITECTURE**|---|
