@@ -73,6 +73,7 @@ Let's connect and explore the infinite possibilities at the intersection of code
 || 👺 Jest
 |**CMS**|---|
 ||🎫 WordPress
+||🛍️ Shopify
 |**DEVOPS**|---|
 ||🐳 Docker
 
