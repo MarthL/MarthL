@@ -55,6 +55,7 @@ Let's connect and explore the infinite possibilities at the intersection of code
 ||🎇 JAVASCRIPT
 ||🎀 Bootstrap
 ||📦 MUI
+||🪁 TailWind CSS
 ||💪 GSAP
 ||✨  SASS - SCSS 
 ||🎏 VueJS
