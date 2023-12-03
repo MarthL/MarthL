@@ -48,7 +48,6 @@ Let's connect and explore the infinite possibilities at the intersection of code
 ||💼 MySQL
 ||🍃 Mongo
 ||🏰 Symfony  
-||🔒 Formik
 ||☕ Java Spring
 |**FRONT END**|---|
 ||🎨 HTML/CSS
