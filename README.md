@@ -60,6 +60,8 @@ Let's connect and explore the infinite possibilities at the intersection of code
 ||🎏 VueJS
 ||🅰️ AngularJS / Angular2
 ||⚛️ ReactJS & Next
+|**MOBILE**|---|
+||🐦 Swift
 |**VERSIONING**|---|
 ||🐱‍👤 Git / GitHub / Gitlab
 |**ARCHITECTURE**|---|
