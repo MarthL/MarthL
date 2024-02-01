@@ -76,6 +76,7 @@ Let's connect and explore the infinite possibilities at the intersection of code
 |**CMS**|---|
 ||🎫 WordPress
 ||🛍️ Shopify
+||📖 Sanity
 |**DEVOPS**|---|
 ||🐳 Docker
 
