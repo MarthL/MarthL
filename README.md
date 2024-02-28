@@ -85,6 +85,17 @@ Let's connect and explore the infinite possibilities at the intersection of code
 <hr>
 
 <h3 align="left">My stats:</h3>   
-
- ![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MarthL&count_private=true&show_icons=true&theme=transparent)
-  
+<div align="center">
+   <table style="border: none;">
+    <tr style="border: none;">
+      <td style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarthL&count_private=true&show_icons=true&theme=transparent" alt="My GitHub Stats">
+      </td>
+      <td style="border: none;>
+        <a href="https://git.io/streak-stats">
+          <img src="https://streak-stats.demolab.com?user=marthL&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=45%2C000000%2C392FEB" alt="GitHub Streak">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
