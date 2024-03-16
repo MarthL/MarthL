@@ -43,6 +43,7 @@ Let's connect and explore the infinite possibilities at the intersection of code
 ||🧩 NodeJS
 ||📘 Express
 ||🗝 CodeIgniter
+||🧱 Laravel
 ||🗼 PHP
 ||🚅 NestJS
 ||💼 MySQL
