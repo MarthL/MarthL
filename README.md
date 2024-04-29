@@ -46,6 +46,7 @@ Let's connect and explore the infinite possibilities at the intersection of code
 ||🧱 Laravel
 ||🗼 PHP
 ||🚅 NestJS
+||🧱 Laravel
 ||💼 MySQL
 ||🍃 Mongo
 ||🏰 Symfony  
