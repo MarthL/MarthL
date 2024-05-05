@@ -26,6 +26,7 @@ My heart beats in JavaScript, and it sings in React! My expertise lies in levera
 🛠️ Crafting Solutions Beyond Boundaries 🌐
 Having worked with a prominent international consulting firm, I've honed my skills in delivering diverse solutions. From the meticulous creation and maintenance of CMS and extensions to architecting web applications that stand out, I enjoy the challenge of adapting to various tech landscapes.
 <br><br>
+
 🌏 Wanderlust Developer ✈️
 Life is a journey, and so is my career! With a passion for exploration, I've embraced a lifestyle that involves constant movement. My diverse experiences have not only enriched my professional skill set but have also broadened my perspective, allowing me to approach problem-solving with a global mindset.
 <br><br>
