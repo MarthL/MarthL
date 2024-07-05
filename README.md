@@ -18,7 +18,7 @@
 
 🌍 Passionate Fullstack Developer | 3 Years of International Experience 🚀
 <br><br>
-Greetings from a tech enthusiast with 3 years of hands-on experience in the dynamic world of software development! 🚀 Currently based in Vietnam, I've had the privilege of crafting innovative solutions on both French and international grounds.
+Greetings from a tech enthusiast with 3 years of hands-on experience in the dynamic world of software development! 🚀 I've had the privilege of crafting innovative solutions on both French and international grounds.
 <br><br>
 🖥️ Tech Arsenal: JavaScript & React Lover 💙
 My heart beats in JavaScript, and it sings in React! My expertise lies in leveraging these technologies to create seamless user experiences. Whether it's building robust CMS systems, developing custom web applications from scratch, or implementing automation solutions, I thrive on turning complex ideas into elegant, functional code.
